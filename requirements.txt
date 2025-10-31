@@ -1,0 +1,5 @@
+ipykernel
+scikit-learn
+mlflow
+flask
+pandas
