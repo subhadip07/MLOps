@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/679939887813723211/a7cd3815b6dd4997a0c1fff00618a1e5/artifacts
+end_time: 1762100308294
+entry_point_name: ''
+experiment_id: '679939887813723211'
+lifecycle_stage: active
+run_id: a7cd3815b6dd4997a0c1fff00618a1e5
+run_name: polite-wasp-747
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762100305828
+status: 3
+tags: []
+user_id: subhadip
