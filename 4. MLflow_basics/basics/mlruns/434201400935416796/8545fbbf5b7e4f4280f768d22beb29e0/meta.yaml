@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/434201400935416796/8545fbbf5b7e4f4280f768d22beb29e0/artifacts
+end_time: 1762164772198
+entry_point_name: ''
+experiment_id: '434201400935416796'
+lifecycle_stage: active
+run_id: 8545fbbf5b7e4f4280f768d22beb29e0
+run_name: unequaled-horse-591
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762164771913
+status: 3
+tags: []
+user_id: subhadip
