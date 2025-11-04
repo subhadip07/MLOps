@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/260868102109032428/00c97c63720e45a3a842dac28ffaa756/artifacts
+end_time: 1762253617157
+entry_point_name: ''
+experiment_id: '260868102109032428'
+lifecycle_stage: active
+run_id: 00c97c63720e45a3a842dac28ffaa756
+run_name: kindly-snail-592
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762253538489
+status: 3
+tags: []
+user_id: subhadip
