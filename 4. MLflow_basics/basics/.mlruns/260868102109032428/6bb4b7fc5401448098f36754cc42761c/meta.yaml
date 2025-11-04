@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/260868102109032428/6bb4b7fc5401448098f36754cc42761c/artifacts
+end_time: 1762252966854
+entry_point_name: ''
+experiment_id: '260868102109032428'
+lifecycle_stage: active
+run_id: 6bb4b7fc5401448098f36754cc42761c
+run_name: mercurial-crow-136
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762252695321
+status: 3
+tags: []
+user_id: subhadip
