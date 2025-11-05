@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/648052267321287449/5fb1b5afd80a4c2e90404778b20c90b5/artifacts
+end_time: 1762343967356
+entry_point_name: ''
+experiment_id: '648052267321287449'
+lifecycle_stage: active
+run_id: 5fb1b5afd80a4c2e90404778b20c90b5
+run_name: bold-panda-10
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762343458795
+status: 3
+tags: []
+user_id: subhadip
