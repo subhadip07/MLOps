@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/433580776526248839/c9f033a9a0c049ae98e14c57332be884/artifacts
+end_time: 1762430379556
+entry_point_name: ''
+experiment_id: '433580776526248839'
+lifecycle_stage: active
+run_id: c9f033a9a0c049ae98e14c57332be884
+run_name: secretive-donkey-135
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762430241560
+status: 3
+tags: []
+user_id: subhadip

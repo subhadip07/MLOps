@@ -1,0 +1,14 @@
+artifact_uri: file:///d:/CampusX/Miscellaneous%20topics/MLOps-Bootcamp/4.%20MLflow_basics/basics/DL_MLflow/mlruns/352733106704578335/29a509b531ab40fdb4f23a0a3594f5ed/artifacts
+end_time: 1762429559898
+entry_point_name: ''
+experiment_id: '352733106704578335'
+lifecycle_stage: active
+run_id: 29a509b531ab40fdb4f23a0a3594f5ed
+run_name: fortunate-sponge-300
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762429545059
+status: 3
+tags: []
+user_id: subhadip

@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/433580776526248839/95b14c7cc0934640bbc80e1a9d593a3d/artifacts
+end_time: 1762430523995
+entry_point_name: ''
+experiment_id: '433580776526248839'
+lifecycle_stage: active
+run_id: 95b14c7cc0934640bbc80e1a9d593a3d
+run_name: clumsy-jay-147
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762430380549
+status: 3
+tags: []
+user_id: subhadip

@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/433580776526248839/44ef59e2d8164878a1eda1278559f49a/artifacts
+end_time: 1762430602708
+entry_point_name: ''
+experiment_id: '433580776526248839'
+lifecycle_stage: active
+run_id: 44ef59e2d8164878a1eda1278559f49a
+run_name: gifted-sloth-278
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762429951269
+status: 3
+tags: []
+user_id: subhadip

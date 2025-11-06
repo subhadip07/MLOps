@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/433580776526248839/a3b7c075d5a94407943ed47f9c2263e4/artifacts
+end_time: 1762430240896
+entry_point_name: ''
+experiment_id: '433580776526248839'
+lifecycle_stage: active
+run_id: a3b7c075d5a94407943ed47f9c2263e4
+run_name: thoughtful-pug-19
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762430100106
+status: 3
+tags: []
+user_id: subhadip

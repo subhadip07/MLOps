@@ -1,0 +1,14 @@
+artifact_uri: file:///d:/CampusX/Miscellaneous%20topics/MLOps-Bootcamp/4.%20MLflow_basics/basics/DL_MLflow/mlruns/352733106704578335/7c51cd89f0be4b95917c29b1c917f23e/artifacts
+end_time: 1762429529992
+entry_point_name: ''
+experiment_id: '352733106704578335'
+lifecycle_stage: active
+run_id: 7c51cd89f0be4b95917c29b1c917f23e
+run_name: popular-sheep-65
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762429497556
+status: 3
+tags: []
+user_id: subhadip

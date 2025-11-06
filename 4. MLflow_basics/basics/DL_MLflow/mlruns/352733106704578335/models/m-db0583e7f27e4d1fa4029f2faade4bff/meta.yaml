@@ -1,0 +1,10 @@
+artifact_location: file:///d:/CampusX/Miscellaneous%20topics/MLOps-Bootcamp/4.%20MLflow_basics/basics/DL_MLflow/mlruns/352733106704578335/models/m-db0583e7f27e4d1fa4029f2faade4bff/artifacts
+creation_timestamp: 1762427854871
+experiment_id: '352733106704578335'
+last_updated_timestamp: 1762427975347
+model_id: m-db0583e7f27e4d1fa4029f2faade4bff
+model_type: null
+name: model
+source_run_id: ff35d81484d04e9caa0ff680a17f4a75
+status: 2
+status_message: null
