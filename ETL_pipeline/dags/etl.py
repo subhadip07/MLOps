@@ -77,3 +77,15 @@ with DAG(
             apod_data['date'],
             apod_data['media_type']
         ))
+
+    ## Step 5: Verify the data DB viewer
+
+
+    ## Step 6: Define the task dependencies
+    ## Extract
+    create_table() >> extract_apod ## Ensure the table is create before extraction
+    api_response = extract_apod.output
+    ## Transform
+    transformed_data = transform_apod_data(api_response)
+    ## Load
+    load_data_to_postgres(transformed_data)
